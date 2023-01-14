@@ -1,0 +1,5 @@
+l=list(eval(input("Enter a list ")))
+print("length",len(l))
+print(max(l))
+print(min(l))
+print(sum(l))
